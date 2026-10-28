@@ -6,6 +6,7 @@ Rumah di Taman Rembia Perkasa, Alor Gajah, Melaka: RM268,000, freehold, non-Bumi
 
 | Versi | Durasi | Fail |
 | --- | --- | --- |
+| V1, gaya emas gelap | 120 saat | [videos/Rembia268K_v1_120s_EmasGelap.mp4](videos/Rembia268K_v1_120s_EmasGelap.mp4) |
 | V2, Sage & Cream | 73 saat | [videos/Rembia268K_v2_73s_SageCream.mp4](videos/Rembia268K_v2_73s_SageCream.mp4) |
 
 Untuk muat turun, buka fail dan tekan **Download raw file**.
